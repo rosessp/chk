@@ -1,4 +1,8 @@
 Hai
 Hello
+<<<<<<< HEAD
 main file content.
 Testing revert functions
+=======
+main file content
+>>>>>>> parent of 0f161d9... [MOD] module: Modified file content
